@@ -6,3 +6,12 @@ Spotify DJ is a past project I worked on to test the efficacy of using reinforce
 ## NOTES
 - Some parts of the project have been intentionally redacted in order to abide by the privacy policy of my university
 - The paper explains the project in detail and the jupyter notebook file demonstrates my algorithm design process
+
+## Dataset
+This project utilized the playlist dataset published by Spotify as part of the Million Playlist Dataset Challenge
+
+## Resources Used
+- Python
+- Jupyter Notebook
+- Spotify API
+- spotipy
